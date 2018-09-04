@@ -3,30 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="7691bf4a-d4f9-4593-b22a-1d330893b7b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/03_no-errors-any-type.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/05_no-errors-to-lower.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/07_replace-any-with-object.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/07_replace-any-with-object.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/08_no-errors-object-type.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/09_type-error-to-lower-case-object.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/10_set-brackets-as-object.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/10_set-brackets-as-object.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/12_add-correct-props.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/12_add-correct-props.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/13_last-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/13_last-error.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/13a_correct-code.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/13a_correct-code.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/13b_no-errors.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/14_many-other-props.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/14_many-other-props.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/15_dog-with-upper-case.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/15_dog-with-upper-case.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/16_type-error-to-upper-case.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/16_type-error-to-upper-case.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/17_fix-dog-name-type.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/17_fix-dog-name-type.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/18_type-error-to-upper-case.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/19_person-view-client.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/19_person-view-client.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/20_app-without-props-type.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/21_app-with-void-props.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/21_app-with-void-props.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/22_app-no-errors.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/23_index-without-flow.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/23_index-without-flow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/24_index-with-flow.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/24_index-with-flow.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/25_visible-missing-props.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/26_all-props-in-app.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/26_all-props-in-app.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pictures/screenshots/27_app-no-errors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/28_removed-props-person-view.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/28_removed-props-person-view.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/29_all-props-in-app.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/30_app-no-errors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/31_exact-props-type.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/31_exact-props-type.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/32_exact-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/32_exact-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/33_remove-props-app.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/33_remove-props-app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/34_app-no-errors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/35_to-lower-app.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/35_to-lower-app.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/36_to-lower-person.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/36_to-lower-person.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/37_to-lower-no-errors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/38_type-error-to-lower.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/39_to-lower-add-type.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/39_to-lower-flow-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/39_to-lower-flow-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/40_to-lower-correct.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/40_to-lower-correct.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/41_to-lower-no-errors.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/90_clear-console.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/90_clear-console.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,12 +54,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="644" />
+          <entry key="html" value="810" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="644" />
+          <entry key="HTML" value="810" />
         </counts>
       </usages-collector>
     </session>
@@ -77,14 +69,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="211" column="70" selection-start-line="211" selection-start-column="70" selection-end-line="211" selection-end-column="70" />
+            <state relative-caret-position="219">
+              <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
               <folding>
                 <element signature="n#style#0;n#section#21;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#23;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#25;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#26;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#4973#4998#0" expanded="true" />
+                <element signature="e#6241#6266#0" expanded="true" />
+                <element signature="e#6526#6551#0" expanded="true" />
+                <element signature="e#6820#6845#0" expanded="true" />
+                <element signature="e#7098#7123#0" expanded="true" />
+                <element signature="e#7383#7408#0" expanded="true" />
+                <element signature="e#7533#7558#0" expanded="true" />
+                <element signature="e#7937#7962#0" expanded="true" />
+                <element signature="e#8224#8249#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,7 +157,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536095178732" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536097126239" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -185,12 +185,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536076043091</updated>
-      <workItem from="1536076044808" duration="8855000" />
+      <workItem from="1536076044808" duration="10365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8855000" />
+    <option name="totallyTimeSpent" value="10365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -279,14 +279,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="211" column="70" selection-start-line="211" selection-start-column="70" selection-end-line="211" selection-end-column="70" />
+        <state relative-caret-position="219">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#section#21;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#23;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#25;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#26;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#4973#4998#0" expanded="true" />
+            <element signature="e#6241#6266#0" expanded="true" />
+            <element signature="e#6526#6551#0" expanded="true" />
+            <element signature="e#6820#6845#0" expanded="true" />
+            <element signature="e#7098#7123#0" expanded="true" />
+            <element signature="e#7383#7408#0" expanded="true" />
+            <element signature="e#7533#7558#0" expanded="true" />
+            <element signature="e#7937#7962#0" expanded="true" />
+            <element signature="e#8224#8249#0" expanded="true" />
           </folding>
         </state>
       </provider>
