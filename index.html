@@ -14,16 +14,31 @@
 			background-color: #292d34;
 		}
 
-		.slide_atom img {
-			width: 80%;
-		}
-
 		.slide_black {
 			background-color: black;
 		}
 
-		.slide_black img {
+		.slide_flow {
+			padding-top: 50px;
+		}
+		.slide_flow img {
 			width: 100%;
+		}
+
+		.slide_full img {
+			width: 100%;
+		}
+
+		.slide_centered {
+			align-items: center;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			padding-top: 0;
+		}
+
+		.slide_code img {
+			width: 80%;
 		}
     </style>
 </head>
@@ -34,36 +49,72 @@
 		<p>Yours Truly, Famous Inc.</p>
 	</header>
 
-	<section class="slide slide_atom">
+	<section class="slide slide_atom slide_full">
 		<img src="pictures/screenshots/01_person-view-without-flow.png" alt="" />
 	</section>
 
-	<section class="slide slide_atom">
+	<section class="slide slide_atom slide_full">
 		<img src="pictures/screenshots/01a_without-any.png" alt="" />
 	</section>
 
-	<section class="slide slide_atom" style="padding-top: 30px">
-		<img src="pictures/screenshots/17_fix-dog-name-type.png" alt="" />
-	</section>
-
-	<section class="slide">
+	<section class="slide slide_atom slide_centered">
 		<img src="pictures/screenshots/01b_where-is-flow.png" alt="" />
 	</section>
 
-	<section class="slide slide_black">
+	<section class="slide slide_black slide_flow">
 		<img src="pictures/screenshots/01c_first-flow-run.png" alt="" />
 	</section>
 
-	<section class="slide slide_black">
+	<section class="slide slide_black slide_flow">
 		<img src="pictures/screenshots/01d_pure-component-error.png" alt="" />
 	</section>
 
-	<section class="slide">
+	<section class="slide slide_flow">
 		<img src="pictures/screenshots/01e_any-from-doc.png" alt="" />
 	</section>
 
-	<section class="slide slide_black">
-		<img src="pictures/screenshots/99_no-errors.png" alt="" />
+	<section class="slide slide_atom slide_full">
+		<img src="pictures/screenshots/02_person-view-any-props.png" alt="" />
+	</section>
+
+	<section class="slide slide_black slide_flow">
+		<img src="pictures/screenshots/01c_first-flow-run.png" alt="" />
+	</section>
+
+	<section class="slide slide_black slide_flow">
+		<img src="pictures/screenshots/99_no-errors-original.png" alt="" />
+	</section>
+
+	<section class="slide slide_atom slide_full">
+		<img src="pictures/screenshots/04_any-props-to-lower-case.png" alt="" />
+	</section>
+
+	<section class="slide slide_black slide_flow">
+		<img src="pictures/screenshots/99_no-errors-original.png" alt="" />
+	</section>
+
+	<section class="slide slide_flow">
+		<img src="pictures/screenshots/06_type-error-to-lower-case.png" alt="" />
+	</section>
+
+	<section class="slide slide_flow">
+		<img src="pictures/screenshots/06a_type-error-to-lower-case.png" alt="" />
+	</section>
+
+	<section class="slide slide_flow">
+		<img src="pictures/screenshots/06b_type-error-to-lower-case.png" alt="" />
+	</section>
+
+	<section class="slide slide_flow">
+		<img src="pictures/screenshots/06c_type-error-to-lower-case.png" alt="" />
+	</section>
+
+	<section class="slide slide_flow">
+		<img src="pictures/screenshots/06d_type-error-to-lower-case.png" alt="" />
+	</section>
+
+	<section class="slide slide_flow">
+		<img src="pictures/screenshots/06e_type-error-to-lower-case.png" alt="" />
 	</section>
 
 	<section class="slide" id="cover">

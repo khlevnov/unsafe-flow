@@ -3,6 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="7691bf4a-d4f9-4593-b22a-1d330893b7b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/01_person-view-without-flow.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/01_person-view-without-flow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/01a_without-any.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/01a_without-any.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/01c_first-flow-run.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/01c_first-flow-run.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/01d_pure-component-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/01d_pure-component-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/01e_any-from-doc.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/01e_any-from-doc.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/02_person-view-any-props.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/02_person-view-any-props.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/04_any-props-to-lower-case.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/04_any-props-to-lower-case.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/06_type-error-to-lower-case.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/06_type-error-to-lower-case.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/11_to-lower-case-error.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/11_to-lower-case-error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/17_fix-dog-name-type.png" beforeDir="false" afterPath="$PROJECT_DIR$/pictures/screenshots/17_fix-dog-name-type.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pictures/screenshots/99_no-errors.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,12 +49,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="221" />
+          <entry key="html" value="467" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="221" />
+          <entry key="HTML" value="467" />
         </counts>
       </usages-collector>
     </session>
@@ -53,8 +64,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+            <state relative-caret-position="600">
+              <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -85,7 +96,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -126,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536077445973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536089744842" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -154,15 +165,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536076043091</updated>
-      <workItem from="1536076044808" duration="1198000" />
+      <workItem from="1536076044808" duration="5568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1198000" />
+    <option name="totallyTimeSpent" value="5568000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="731" extended-state="6" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -248,8 +259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="44" column="59" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="59" />
+        <state relative-caret-position="600">
+          <caret line="116" column="42" selection-start-line="116" selection-start-column="42" selection-end-line="116" selection-end-column="42" />
         </state>
       </provider>
     </entry>
